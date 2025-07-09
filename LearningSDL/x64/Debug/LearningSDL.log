@@ -1,15 +1,5 @@
 ﻿  Scanning sources for module dependencies...
-  Initialization.ixx
-  std.ixx
   ComponentsAndEntities.ixx
-  std.compat.ixx
-  GameLoop.ixx
   Compiling...
-  std.ixx
   ComponentsAndEntities.ixx
-  Initialization.ixx
-  std.compat.ixx
-  GameLoop.ixx
-C:\github_repos\SDL3-game\LearningSDL\GameLoop.ixx(19,23): warning C4804: '>': unsafe use of type 'bool' in operation
-  main.cpp
   LearningSDL.vcxproj -> C:\github_repos\SDL3-game\x64\Debug\LearningSDL.exe
