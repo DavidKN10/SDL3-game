@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Initialization.ixx.obj",
+            "outputs": [
+                "C:\\github_repos\\SDL3-game\\LearningSDL\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\github_repos\\SDL3-game\\LearningSDL\\x64\\Debug\\Initialization.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Initialization",
+                    "source-path": "c:\\github_repos\\sdl3-game\\learningsdl\\initialization.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                },
+                {
+                    "logical-name": "SDL3/SDL.h",
+                    "source-path": "c:\\vslilb\\sdl3-3.2.14\\include\\sdl3\\sdl.h",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

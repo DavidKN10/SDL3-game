@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\SDL_main.obj",
+            "outputs": [
+                "x64\\Debug\\SDL_main.h_D1D6DC5323C66424.ifc.dt.module.json",
+                "x64\\Debug\\SDL_main.h_D1D6DC5323C66424.ifc.dt.d.json",
+                "SDL_main.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\vslilb\\SDL3-3.2.14\\include\\SDL3\\SDL_main.h",
+                    "source-path": "c:\\vslilb\\sdl3-3.2.14\\include\\sdl3\\sdl_main.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

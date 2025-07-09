@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\SDLIncludes.ixx.obj",
+            "outputs": [
+                "C:\\Users\\David\\C-CPP-Projects\\LearningSDL\\LearningSDL\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\David\\C-CPP-Projects\\LearningSDL\\LearningSDL\\x64\\Debug\\SDLIncludes.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "SDLIncludes",
+                    "source-path": "c:\\users\\david\\c-cpp-projects\\learningsdl\\learningsdl\\sdlincludes.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
